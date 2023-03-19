@@ -60,7 +60,6 @@ namespace Tests
         [TestMethod]
         public void Mod_Test()
         {
-
             //Arrange
             float A = (float)Utils.random.NextDouble();
             float B = (float)Utils.random.NextDouble();
